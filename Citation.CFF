@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated thesis."
+title: "Laboratory Data Analytical Tools to Improve Case Detection of Hypophosphatasia in Adults"
+authors:
+  - family-names: Zarb Piccione
+    given-names: Liam
+version: 1.0.0
+date-released: 2026-06-22
+license: MIT
+
+preferred-citation:
+  type: thesis
+  authors:
+    - family-names: Zarb Piccione
+      given-names: Liam
+  title: "Laboratory Data Analytical Tools to Improve Case Detection of Hypophosphatasia in Adults"
+  institution: "Trinity College Dublin"
+  year: 2026
