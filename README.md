@@ -6,7 +6,7 @@ Please feel free to make use/edit the code to best suit your needs.
 
 # Usage
 
-the main .py file brings up a menu to input one or more excel files.
+the main .py file is the code used for the algorithm while the .exe is ready to use. This brings up a menu to input one or more excel files.
 
 following this a second menu prompts the user to change desired analytes based on preference. 
 This is ideal considering the many different reference ranges used in different hospitals/assay platforms.
