@@ -1,0 +1,16 @@
+HPP Filter V1 - Liam Zarb Piccione
+
+Prior to running please make sure your column names are exactly: MRN, ALP, Phos and eGFR
+
+
+The program will also automatically exclude entries with no Phosphate or ALP values.
+
+1) open HPP filter and copy paste the excel sheet into the program. e.g - C:/Users/John/input.xlsx - No parenthesis.
+
+2) input desired reference ranges/intervals. Defaults are based on TUH lab user manual or on study findings. 
+
+3) Output will always be in the desktop. 
+
+Note all code is provided in the file HPP filter CODE.py
+
+At the moment there is no function to account for Mg and Zn which can produce falsely low results. 
